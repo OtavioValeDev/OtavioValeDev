@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Português-🇧🇷-blue?style=for-the-badge&logo=github" alt="Português" />
+  </a>
+  <a href="README-en.md" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=for-the-badge&logo=github" alt="English" />
+  </a>
+</p>
+
 # 👋 Olá, eu sou o Otávio Augusto
 
 💻 Desenvolvedor em formação, com base em desenvolvimento web e atualmente me aprofundando em **Java** no SENAI.  
@@ -13,7 +22,6 @@
 
 <!-- Estatísticas -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=OtavioValeDev&theme=tokyonight&hide_border=true)
-<!--![Trophy](https://github-profile-trophy.vercel.app/?username=OtavioValeDev&theme=tokyonight&no-frame=true&margin-w=5)-->
 
 ---
 
