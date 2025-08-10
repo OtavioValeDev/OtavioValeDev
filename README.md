@@ -1,10 +1,9 @@
 # 👋 Olá, eu sou o Otávio Augusto
 
 💻 Desenvolvedor em formação, com base em desenvolvimento web e atualmente me aprofundando em **Java** no SENAI.  
-🎯 Busco oportunidades para atuar em **desenvolvimento** **web**.
+🎯 Busco oportunidades para atuar em **desenvolvimento web**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/otávio-augusto-08580b33a)
-<!--[![Portfólio](https://img.shields.io/badge/Portfólio-000?logo=firefox&logoColor=white)](LINK_DO_SEU_PORTFOLIO)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/otávio-augusto-08580b33a)
 [![E-mail](https://img.shields.io/badge/Email-ff5349?logo=gmail&logoColor=white)](mailto:otavioaugusto_2007@outlook.com)
 
 ---
@@ -50,8 +49,14 @@
 
 ---
 
+## 🐍 Animação da Cobrinha
+
+![Snake animation](https://github.com/OtavioValeDev/OtavioValeDev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Contato
 
-📧 E-mail: otavioaugusto_2007@outlook.com
-💼 LinkedIn: [Otávio Augusto](linkedin.com/in/otávio-augusto-08580b33a)  
+[![E-mail](https://img.shields.io/badge/Email-ff5349?logo=gmail&logoColor=white)](mailto:otavioaugusto_2007@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/otávio-augusto-08580b33a)
 <!---🌐 Portfólio: [Clique aqui](LINK_DO_SEU_PORTFOLIO)-->
