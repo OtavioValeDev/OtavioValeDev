@@ -51,7 +51,7 @@
 
 ## 🐍 Animação da Cobrinha
 
-![Snake animation](https://github.com/OtavioValeDev/OtavioValeDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/OtavioValeDev/OtavioValeDev/blob/output/github-contribution-grid-snake.svg](https://github.com/OtavioValeDev))
 
 ---
 
