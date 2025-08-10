@@ -49,12 +49,6 @@
 
 ---
 
-## 🐍 Animação da Cobrinha
-
-![Snake animation](https://github.com/OtavioValeDev/OtavioValeDev/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato
 
 [![E-mail](https://img.shields.io/badge/Email-ff5349?logo=gmail&logoColor=white)](mailto:otavioaugusto_2007@outlook.com)
