@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# 👋 Olá! Meu nome é Otávio Augusto !
+# 👋 Olá! Meu nome é Otávio Augusto
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, experimentos e minha jornada como **desenvolvedor web e mobile**. 🚀  
 
