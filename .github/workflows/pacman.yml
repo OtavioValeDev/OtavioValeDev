@@ -1,25 +1,26 @@
-name: Generate Pacman Animation
+name: Generate Pacman Graph
 
 on:
   schedule:
     - cron: "0 0 * * *" # executa uma vez por dia
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
-    name: Generate GitHub Contribution Pacman
     runs-on: ubuntu-latest
+    name: Generate Pacman Contribution Graph
+
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pacman animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman graph
+        uses: devxbots/github-contribution-graph@main
         with:
-          github_user_name: OtavioValeDev # seu usuário exato do GitHub
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          user_name: "OtavioValeDev"
+          mode: "pacman"
+          output_path: "dist"
+          color_scheme: "github"
 
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3
