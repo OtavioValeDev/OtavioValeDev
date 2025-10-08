@@ -82,9 +82,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/cobrinha-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/cobrinha.svg">
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/cobrinha.svg">
 </picture>
 
 ###
