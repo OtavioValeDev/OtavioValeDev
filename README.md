@@ -5,7 +5,9 @@
 
 ###
 
-<h1 align="left">👋 Hey, what's up?</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=808080&center=true&vCenter=true&lines=👋+Olá!+Eu+sou+o+Eduardo;Desenvolvedor+Java;Bem-vindo+ao+meu+perfil!" />
+</h1>
 
 ###
 
