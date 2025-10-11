@@ -6,8 +6,7 @@
 ###
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=808080&center=true&vCenter=true&lines=Hello!+I'am+Otávio+;Technology+Student;
-    Welcome+to+my+github+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=808080&center=true&vCenter=true&width=600&lines=Hello!+I'm+Otávio;Technology+Student;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 ###
