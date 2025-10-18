@@ -94,7 +94,7 @@
 
 <p align="left">
   ✉️ Email: <a href="mailto:otavioaugusto_2007@outlook.com">otavioaugusto_2007@outlook.com</a><br>
-  🌐 Portfolio: <a href="https://docs.google.com/document/d/1602YQce06A7bWCIsVA54AE5k_2vHAqIB/edit?usp=drivesdk">View here</a><br>
+  📄 Curriculum: <a href="https://docs.google.com/document/d/1602YQce06A7bWCIsVA54AE5k_2vHAqIB/edit?usp=drivesdk">View here</a><br>
   💼 GitHub: <a href="https://github.com/OtavioValeDev">OtavioValeDev</a>
 </p>
 
