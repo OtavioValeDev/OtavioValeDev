@@ -24,7 +24,7 @@
 
 <p align="left">
   ✨ Creating bugs since <strong>2024</strong><br>
-  📚 I'm currently studying <strong>Systems Analysis and Development(ADS)</strong> <br>
+  📚 I'm currently studying <strong>Systems Analysis and Development</strong> <br>
   🎯 Goals: Gain my first professional experience and become a full developer<br>
   🎲 Fun fact: I love video games and technology 🎮
 </p>
@@ -94,7 +94,7 @@
 
 <p align="left">
   ✉️ Email: <a href="mailto:otavioaugusto_2007@outlook.com">otavioaugusto_2007@outlook.com</a><br>
-  📄 Curriculum: <a href="https://docs.google.com/document/d/1602YQce06A7bWCIsVA54AE5k_2vHAqIB/edit?usp=drivesdk">View here</a><br>
+  <!--📄 Curriculum: <a href="https://docs.google.com/document/d/1602YQce06A7bWCIsVA54AE5k_2vHAqIB/edit?usp=drivesdk">View here</a><br>-->
   💼 GitHub: <a href="https://github.com/OtavioValeDev">OtavioValeDev</a>
 </p>
 
