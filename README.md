@@ -24,7 +24,7 @@
 
 <p align="left">
   ✨ Creating bugs since <strong>2024</strong><br>
-  📚 I'm currently learning <strong>Java</strong> and improving my web development skills<br>
+  📚 I'm currently studying <strong>Systems Analysis and Development(ADS)</strong> <br>
   🎯 Goals: Gain my first professional experience and become a full developer<br>
   🎲 Fun fact: I love video games and technology 🎮
 </p>
